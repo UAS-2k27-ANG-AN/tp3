@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # User Manager API
 
 Application web réalisée avec Angular pour consulter et gérer une liste d’utilisateurs. Le projet met en pratique l’injection de dépendances, les services Angular, les requêtes HTTP et les formulaires réactifs.
@@ -122,3 +123,6 @@ src/
 ## 8. Remarque sur JSONPlaceholder
 
 JSONPlaceholder est une API de démonstration. Elle simule les opérations de création, modification et suppression et renvoie des réponses, mais ne conserve généralement pas ces changements comme une vraie base de données. Après un rechargement, les données d’origine peuvent réapparaître.
+=======
+# tp3
+>>>>>>> 334a13f66d50249539a15e51281f9a9e920f9f51
